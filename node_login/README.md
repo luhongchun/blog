@@ -10,12 +10,13 @@ npm install ​cheerio
 
 3.​安装nodecr（解析验证码​）
 npm install ​nodecr
+<br>
 4.更改相应参数
- loginUrl = '*****'; //登录网址
- validateImgUrl = '******'; //验证码网址
- username = * * * * * ;
- password = * * * * * ;
- params={*,*,*,*};
+ <p>loginUrl = '*****'; //登录网址</p>
+ <p>validateImgUrl = '******'; //验证码网址</p>
+ <p>username = * * * * * ;</p>
+ <p>password = * * * * * ;</p>
+ <p>params={*,*,*,*};</p>
 5.后台运行
 node login.js
 
